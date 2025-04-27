@@ -13,11 +13,12 @@ A command-line tool that allows users to interact with spreadsheet data using na
 ## Setup
 
 1. Clone the repository
-2. Install dependencies:
+2. cd into the folder
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Create a `.env` file with your OpenAI API key:
+4. Create a `.env` file with your OpenAI API key:
    ```
    OPENAI_API_KEY=your_api_key_here
    ```
